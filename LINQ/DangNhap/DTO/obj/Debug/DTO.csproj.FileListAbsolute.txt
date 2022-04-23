@@ -1,0 +1,6 @@
+E:\DangNhap\DTO\bin\Debug\DTO.dll
+E:\DangNhap\DTO\bin\Debug\DTO.pdb
+E:\DangNhap\DTO\obj\Debug\DTO.dll
+E:\DangNhap\DTO\obj\Debug\DTO.pdb
+E:\DangNhap\DTO\bin\Debug\DTO.dll.config
+E:\DangNhap\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

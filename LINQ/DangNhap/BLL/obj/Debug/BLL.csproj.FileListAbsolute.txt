@@ -1,0 +1,9 @@
+E:\DangNhap\BLL\bin\Debug\BLL.dll
+E:\DangNhap\BLL\bin\Debug\BLL.pdb
+E:\DangNhap\BLL\obj\Debug\BLL.dll
+E:\DangNhap\BLL\obj\Debug\BLL.pdb
+E:\DangNhap\BLL\bin\Debug\DAL.dll
+E:\DangNhap\BLL\bin\Debug\DTO.dll
+E:\DangNhap\BLL\bin\Debug\DAL.pdb
+E:\DangNhap\BLL\bin\Debug\DTO.pdb
+E:\DangNhap\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
