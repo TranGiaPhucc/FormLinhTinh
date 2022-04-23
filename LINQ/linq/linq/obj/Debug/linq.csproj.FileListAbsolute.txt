@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\bin\Debug\linq.exe.config
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\bin\Debug\linq.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\bin\Debug\linq.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.Form1.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\LINQ\linq\linq\obj\Debug\linq.pdb
